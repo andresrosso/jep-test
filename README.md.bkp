@@ -1,0 +1,44 @@
+# jep-test
+
+## Ejercicio de Recuperación Prueba JEP
+
+El objetivo de este ejercicio es evaluar la capacidad de procesamiento de texto en el
+ámbito de los derechos humanos utilizando la fuente de documentos públicos del
+Tribunal Constitucional de Colombia. Se espera que los participantes implementen un
+proceso de recuperación de información a partir de un conjunto de documentos.
+
+Plazo de entrega:
+
+Esta prueba se envía el día 8 de abril de 2024 a las 5pm y deberá ser devuelta el
+jueves 5pm 11 de abril de 2024.
+
+
+## Instrucciones:
+
+La prueba debe ser desarrollada a través de scripts en el lenguaje de programación de
+preferencia del participante, bajo el flujo de tareas que considere el participante. Debe
+ser generado un documento metodológico donde se detalles los procesos realizados y
+los resultados obtenidos. Queda a consideración del participante la forma de organizar
+el desarrollo de la prueba. El resultado que se espera es un flujo de tareas, junto con
+los scripts de código fuente en el que se desarrollan las mismas, donde se implemente
+el proceso de recuperación de información con un documento metodológico. Si el
+participante lo considera también se recibirá un repositorio con el desarrollo de la
+prueba.
+
+Los resultados deberán ser enviados a los correos electrónicos ya sea en archivo
+comprimido o con acceso al repositorio donde se desarrolla la prueba.
+harbey.rodriguez@jep.gov.co, juan.duenas@jep.gov.co, luis.moreno@jep.gov.co
+Para la prueba se evaluará el procedimiento metodológico implementado, la
+implementación del proceso en código fuente y la gestión del proceso.
+Datos a usar:
+
+El conjunto de datos a usar son los dispuestos en el siguiente enlace
+https://www.kaggle.com/datasets/cristiancristancho/constitutional-court-of-colombia-
+rapporteurships/data
+
+Este es un corpus de reportes de la corte constitucional de Colombia llamado
+&quot;Constitutional Court of Colombia Rapporteurships&quot;. Es posible realizar la prueba con
+todos los documentos o una muestra representativa de los mismos, esto se deja a
+
+criterio del participante. Sin embargo, debe ser claro qué conjunto de documentos fue
+finalmente usado.
