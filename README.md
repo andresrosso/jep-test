@@ -1,4 +1,4 @@
-# Análisis Exploratoria Sentencias Corte en Colombia 
+# Análisis Exploratorio Sentencias Corte en Colombia 
 
 El objetivo de este ejercicio es evaluar la capacidad de procesamiento de texto en el
 ámbito de los derechos humanos utilizando la fuente de documentos públicos del
